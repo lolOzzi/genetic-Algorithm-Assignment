@@ -1,0 +1,24 @@
+kort,90,150
+kompas,130,35
+vand,1530,200
+sandwich,500,160
+sukker,150,60
+dåsemad,680,45
+banan,270,60
+æble,390,40
+ost,230,30
+øl,520,10
+solcreme,110,70
+kamera,320,30
+T-shirt,240,15
+bukser,480,10
+paraply,730,40
+vandtætte bukser,420,70
+vandtæt overtøj,430,75
+pung,220,80
+solbriller,70,20
+håndklæde,180,12
+sokker,40,50
+bog,300,10
+notesbog,900,1
+telt,2000,150
