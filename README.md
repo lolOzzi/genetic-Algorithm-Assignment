@@ -2,7 +2,7 @@
 
 Bare åben geneticAlgo.pde og kør programmet.
 
-![GeneticAlgo Program](https://ibb.co/k4w95wv "Program")
+![GeneticAlgo Program](https://i.ibb.co/T47bY7d/genetic.png "Program")
 
 
 Tilføjelser af flere ting til ryksækken:
