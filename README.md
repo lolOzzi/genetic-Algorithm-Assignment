@@ -1,6 +1,6 @@
 # genetic-Algorithm-Assignment
 
-Bare åben geneticAlgo.pde og kør programmet.
+Bare åbn geneticAlgo.pde og kør programmet.
 
 ![GeneticAlgo Program](https://i.ibb.co/T47bY7d/genetic.png "Program")
 
